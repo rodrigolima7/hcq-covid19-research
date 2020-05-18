@@ -2,15 +2,15 @@
 
 This repository is intended to catalog available research on the effectiveness of HCQ (Hydroxychloroquine) on the treatment for Covid-19.
 
-    IMPORTANT
-
-    This is not intended to have any political bias or commentary, just links to the available research for anyone interested.
-
-    This should **NOT** be considered, at any point, a complete catalog of all research available. This is just a personal effort done on our spare time.
-
-    The decision to use or not HCQ should come for doctors and specialists and not random people on the internet. The objective of this repository is **NOT** to serve as a recomendation or not of use of the medication, but as an easy way to locate and read research on the subject.
-
-    Also, please, news website links are not research.
+> **IMPORTANT**
+> 
+> This is not intended to have any political bias or commentary, just links to the available research for anyone interested.
+> 
+> This should **NOT** be considered, at any point, a complete catalog of all research available. This is just a personal effort done on our spare time.
+> 
+> The decision to use or not HCQ should come for doctors and specialists and not random people on the internet. The objective of this repository is **NOT** to serve as a recomendation or not of use of the medication, but as an easy way to locate and read research on the subject.
+> 
+> Also, please, news website links are not research.
 
 ## Other Languages
 
