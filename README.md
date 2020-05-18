@@ -8,7 +8,7 @@ This repository is intended to catalog available research on the effectiveness o
 > 
 > This should **NOT** be considered, at any point, a complete catalog of all research available. This is just a personal effort done on our spare time.
 > 
-> The decision to use or not HCQ should come for doctors and specialists and not random people on the internet. The objective of this repository is **NOT** to serve as a recomendation or not of use of the medication, but as an easy way to locate and read research on the subject.
+> The decision to use or not HCQ should come from doctors and specialists and not random people on the internet. The objective of this repository is **NOT** to serve as a recomendation or not of use of the medication, but as an easy way to locate and read research on the subject.
 > 
 > Also, please, news website links are not research.
 
@@ -19,7 +19,7 @@ This document is also available in other langagues.
 - [English - US](README.md)
 - [Português - Brasil](README.pt-br.md)
 
-Even though this document may be in different languages, the research and titles will not be translated.
+Even though this document may be in different languages, the research and their titles will not be translated.
 
 ## Structure
 
