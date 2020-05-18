@@ -53,12 +53,22 @@ Example:
 
 Below is the research in this catalog, so far. Newest research comes first.
 
+**[Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State](https://jamanetwork.com/journals/jama/fullarticle/2766117)**  
+**Published:** 5/11/2020  
+**Summary:** Study of 1,438 cases in New York showed no significant improvement in mortality rate between patients using HCQ, azithromycin and 'HCQ + azithromycin' and patients not using the treatment.  
+**Bias:** Not effective.  
+
+**[Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2012410)**  
+**Published:** 5/7/2020  
+**Summary:** Study of 1,376 cases in New York showed no significant connection betweem usage of HCQ and a reduction of intubation or detah rates. Patients who received HCQ treatment where more severily ill at baseline.   
+**Bias:** Not effective.
+
 **[Baseline use of hydroxychloroquine in systemic lupus erythematosus does not preclude SARS-CoV-2 infection and severe COVID-19](https://ard.bmj.com/content/early/2020/05/07/annrheumdis-2020-217690)**  
 **Published**: 5/7/2020  
 **Summary:** The regular usage of HCQ by patients with lupus did not seem to impede infection by Covid-19 on the same patients. The numbers of patients infected and that needed intense care did not differ between people who don't use HCQ and people who do use it.  
-**Bias:** Not effective.
+**Bias:** Not effective.  
 
 **[Hydroxychloroquine in the treatment and prophylaxis of SARS-CoV-2 infection in non-human primates](https://www.researchsquare.com/article/rs-27223/v1)**  
 **Published**: 5/6/2020  
 **Summary:** The usage of HCQ on non-humans did show any antiviral activity, regardless of timming after infection. The results do not support HCQ as an antiviral agent against Covid-19 on humans.  
-**Bias:** Not effective.
+**Bias:** Not effective.  
