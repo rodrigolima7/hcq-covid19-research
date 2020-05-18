@@ -37,20 +37,28 @@ Example:
 **Summary:** The results could not provide us with a clear picture on whether HCQ is effective or not on the treatment against Covid-19.  
 **Bias:** Inconclusive.
 
-The summary should be short but have enough information to convey what the conclusion of the research was.
+> **ABOUT THE SUMMARY**
+> 
+> The summary should be short but have enough information to convey what the conclusion of the research was.
+> 
+> However, it is recommended to **READ THE RESEARCH** instead of relying on the summary. If the summary does not match the research, **PLEASE LET US KNOW** by creating an issue.
 
-However, it is recommended to **READ THE RESEARCH** instead of relying on the summary. If the summary does not match the research, **PLEASE LET US KNOW** by creating an issue.
+> **ABOUT THE BIAS**
+> 
+> The bias should not be used as the only souce of analysis for the effectiveness of HCQ against Covid-19.
+> 
+> It is only there to provide a general idea of the conclusion of the research while disregarding specfics of the same. An ideal conclusion should come from reading the entirety of each research and understanding the specific case considered in it.
 
 # Research
 
 Below is the research in this catalog, so far. Newest research comes first.
 
-[Baseline use of hydroxychloroquine in systemic lupus erythematosus does not preclude SARS-CoV-2 infection and severe COVID-19](https://ard.bmj.com/content/early/2020/05/07/annrheumdis-2020-217690)  
+**[Baseline use of hydroxychloroquine in systemic lupus erythematosus does not preclude SARS-CoV-2 infection and severe COVID-19](https://ard.bmj.com/content/early/2020/05/07/annrheumdis-2020-217690)**  
 **Published**: 5/7/2020  
 **Summary:** The regular usage of HCQ by patients with lupus did not seem to impede infection by Covid-19 on the same patients. The numbers of patients infected and that needed intense care did not differ between people who don't use HCQ and people who do use it.  
 **Bias:** Not effective.
 
-[Hydroxychloroquine in the treatment and prophylaxis of SARS-CoV-2 infection in non-human primates](https://www.researchsquare.com/article/rs-27223/v1)  
+**[Hydroxychloroquine in the treatment and prophylaxis of SARS-CoV-2 infection in non-human primates](https://www.researchsquare.com/article/rs-27223/v1)**  
 **Published**: 5/6/2020  
 **Summary:** The usage of HCQ on non-humans did show any antiviral activity, regardless of timming after infection. The results do not support HCQ as an antiviral agent against Covid-19 on humans.  
 **Bias:** Not effective.
