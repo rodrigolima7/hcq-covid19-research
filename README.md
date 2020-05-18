@@ -6,7 +6,7 @@ This repository is intended to catalog available research on the effectiveness o
 > 
 > This is not intended to have any political bias or commentary, just links to the available research for anyone interested.
 > 
-> This should **NOT** be considered, at any point, a complete catalog of all research available. This is just a personal effort done on our spare time.
+> This should **NOT** be considered, at any point, a complete catalog of all research available. This is just a personal effort done on my spare time.
 > 
 > The decision to use or not HCQ should come from doctors and specialists and not random people on the internet. The objective of this repository is **NOT** to serve as a recomendation or not of use of the medication, but as an easy way to locate and read research on the subject.
 > 
@@ -17,9 +17,9 @@ This repository is intended to catalog available research on the effectiveness o
 This document is also available in other langagues.
 
 - [English - US](README.md)
-- [Português - Brasil](README.pt-br.md)
+- Português - Brasil - In Progress
 
-Even though this document may be in different languages, the research and their titles will not be translated.
+Even though this document may be in different languages, the research and their titles may not be translated.
 
 ## Structure
 
@@ -41,7 +41,7 @@ Example:
 > 
 > The summary should be short but have enough information to convey what the conclusion of the research was.
 > 
-> However, it is recommended to **READ THE RESEARCH** instead of relying on the summary. If the summary does not match the research, **PLEASE LET US KNOW** by creating an issue.
+> However, it is recommended to **READ THE RESEARCH** instead of relying on the summary. If the summary does not match the research, **PLEASE LET ME KNOW** by creating an issue.
 
 > **ABOUT THE BIAS**
 > 
@@ -111,3 +111,13 @@ Below is the research in this catalog, specific to Covid-19, so far. Newest rese
 **Published:** 5/1/2020  
 **Summary:** Covid-19 patients on intensive care treated with either HCQ or HCQ+AZ have risk of increased QTc intervals. Health care professionals should consider this specially when monitoring of patients cannot be done adequately.  
 **Bias:** Inconclusive. Might cause serious adverse events.  
+
+# About The Work Here
+
+I have a lot of items to add this document. I'm trying to do my best to have have them added as soon as possible.
+
+Please, keep in mind that I'm doing this on my free time and I might make some mistakes. There's no political agenda here! I only want to centralize all research on this matter so anyone can easily read and share them.
+
+Also, I'm aware that we have research on HCQ that's not Covid-19 specific, but I am prioritizing the ones that are. All research is important, but right now I believe the focus should be on Covid-19 specific papers.
+
+Thank you for anyone who read this far.
