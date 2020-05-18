@@ -48,14 +48,22 @@ Example:
 > The bias should not be used as the only souce of analysis for the effectiveness of HCQ against Covid-19.
 > 
 > It is only there to provide a general idea of the conclusion of the research while disregarding specfics of the same. An ideal conclusion should come from reading the entirety of each research and understanding the specific case considered in it.
+> 
+> The raio of 'effective' vs 'not effective' bias should **NOT** be used as a basis for recomendation, since it would ignore the details, scope and limitiations of each research.
 
-# Research
+## Glossary
 
-Below is the research in this catalog, so far. Newest research comes first.
+- **HCQ:** Hydroxychloroquine.
+- **AZ:** Azithromycin.
+- **HCQ+AZ:** Treatments with a combination of Hydroxychloroquine and Azithromycin.
+
+# Covid-19 Research
+
+Below is the research in this catalog, specific to Covid-19, so far. Newest research comes first.
 
 **[Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State](https://jamanetwork.com/journals/jama/fullarticle/2766117)**  
 **Published:** 5/11/2020  
-**Summary:** Study of 1,438 cases in New York showed no significant improvement in mortality rate between patients using HCQ, azithromycin and 'HCQ + azithromycin' and patients not using the treatment.  
+**Summary:** Study of 1,438 cases in New York showed no significant improvement in mortality rate between patients using HCQ, azithromycin and HCQ+AZ and patients not using the treatment.  
 **Bias:** Not effective.  
 
 **[Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2012410)**  
@@ -72,3 +80,8 @@ Below is the research in this catalog, so far. Newest research comes first.
 **Published**: 5/6/2020  
 **Summary:** The usage of HCQ on non-humans did show any antiviral activity, regardless of timming after infection. The results do not support HCQ as an antiviral agent against Covid-19 on humans.  
 **Bias:** Not effective.  
+
+**[Early treatment of COVID-19 patients with hydroxychloroquine and azithromycin: A retrospective analysis of 1061 cases in Marseille, France](https://www.sciencedirect.com/science/article/pii/S1477893920302179)**  
+**Published:** 5/5/2020  
+**Summary:** The usage of HCQ+AZ on the early stages of Covid-19 seems safe and associated to a low fatality rate.  
+**Bias:** Effective.  
