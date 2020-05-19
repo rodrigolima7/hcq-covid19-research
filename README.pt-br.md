@@ -14,7 +14,7 @@ Esse repositório tem a intenção de catalogar pesquisas disponíveis sobre a e
 
 ## Traduções
 
-Esse documento também está disponível em outras línguas.
+Esse documento está disponível em duas línguas, até agora.
 
 - [English - US](README.md)
 - [Português - Brasil](README.pt-br.md)

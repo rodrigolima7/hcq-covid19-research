@@ -12,9 +12,9 @@ This repository is intended to catalog available research on the effectiveness o
 > 
 > Also, please, news website links are not research.
 
-## Other Languages
+## Translations
 
-This document is also available in other languages.
+This document is available in two languages, so far.
 
 - [English - US](README.md)
 - [Português - BR (não ainda finalizado)](README.pt-br.md)
