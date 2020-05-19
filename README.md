@@ -8,16 +8,16 @@ This repository is intended to catalog available research on the effectiveness o
 > 
 > This should **NOT** be considered, at any point, a complete catalog of all research available. This is just a personal effort done on my spare time.
 > 
-> The decision to use or not HCQ should come from doctors and specialists and not random people on the internet. The objective of this repository is **NOT** to serve as a recomendation or not of use of the medication, but as an easy way to locate and read research on the subject.
+> The decision to use or not HCQ should come from doctors and specialists and not random people on the internet. The objective of this repository is **NOT** to serve as a recommendation or not of use of the medication, but as an easy way to locate and read research on the subject.
 > 
 > Also, please, news website links are not research.
 
 ## Other Languages
 
-This document is also available in other langagues.
+This document is also available in other languages.
 
 - [English - US](README.md)
-- Português - Brasil - In Progress
+- [Português - BR (não ainda finalizado)](README.pt-br.md)
 
 Even though this document may be in different languages, the research and their titles may not be translated.
 
@@ -32,7 +32,7 @@ Each research added to this document should have:
 
 Example:
 
-**[Title Of The Research](http://someurl.com/the-research)**  
+1. **[Title Of The Research](http://someurl.com/the-research)**  
 **Published:** 5/1/2020  
 **Summary:** The results could not provide us with a clear picture on whether HCQ is effective or not on the treatment against Covid-19.  
 **Bias:** Inconclusive.
@@ -47,9 +47,9 @@ Example:
 > 
 > The bias should not be used as the only source of analysis for the effectiveness of HCQ against Covid-19.
 > 
-> It is only there to provide a general idea of the conclusion of the research while disregarding specfics of the same. An ideal conclusion should come from reading the entirety of each research and understanding the specific case considered in it.
+> It is only there to provide a general idea of the conclusion of the research while disregarding specifics of the same. An ideal conclusion should come from reading the entirety of each research and understanding the specific case considered in it.
 > 
-> The raio of 'effective' vs 'not effective' bias should **NOT** be used as a basis for recomendation, since it would ignore the details, scope and limitiations of each research.
+> The ratio of 'effective' vs 'not effective' bias should **NOT** be used as a basis for recommendation, since it would ignore the details, scope and limitations of each research.
 
 ## Glossary
 
@@ -67,7 +67,7 @@ Below is the research in this catalog, specific to Covid-19, so far. Newest rese
 
 1. **[Should Clinicians Use Chloroquine or Hydroxychloroquine Alone or in Combination With Azithromycin for the Prophylaxis or Treatment of COVID-19?](https://www.acpjournals.org/doi/10.7326/M20-1998)**  
 **Published:** 5/13/2020  
-**Summary:** Pratice points related to the use of HCQ or HCQ+AZ for prevention and treatment against Covid-19. Sumarizes available evidence and recomends against the use of both treatments for both cases.  
+**Summary:** Practice points related to the use of HCQ or HCQ+AZ for prevention and treatment against Covid-19. Summarizes available evidence and recommends against the use of both treatments for both cases.  
 **Bias:** Not effective.  
 
 1. **[Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State](https://jamanetwork.com/journals/jama/fullarticle/2766117)**  
@@ -77,7 +77,7 @@ Below is the research in this catalog, specific to Covid-19, so far. Newest rese
 
 1. **[Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2012410)**  
 **Published:** 5/7/2020  
-**Summary:** Study of 1,376 cases in New York showed no significant connection betweem usage of HCQ and a reduction of intubation or detah rates. Patients who received HCQ treatment where more severily ill at baseline.   
+**Summary:** Study of 1,376 cases in New York showed no significant connection between usage of HCQ and a reduction of intubation or death rates. Patients who received HCQ treatment where more severely ill at baseline.   
 **Bias:** Not effective.
 
 1. **[Baseline use of hydroxychloroquine in systemic lupus erythematosus does not preclude SARS-CoV-2 infection and severe COVID-19](https://ard.bmj.com/content/early/2020/05/07/annrheumdis-2020-217690)**  
@@ -92,7 +92,7 @@ Below is the research in this catalog, specific to Covid-19, so far. Newest rese
 
 1. **[Hydroxychloroquine in the treatment and prophylaxis of SARS-CoV-2 infection in non-human primates](https://www.researchsquare.com/article/rs-27223/v1)**  
 **Published**: 5/6/2020  
-**Summary:** The usage of HCQ on non-humans did show any antiviral activity, regardless of timming after infection. The results do not support HCQ as an antiviral agent against Covid-19 on humans.  
+**Summary:** The usage of HCQ on non-humans did show any antiviral activity, regardless of timing after infection. The results do not support HCQ as an antiviral agent against Covid-19 on humans.  
 **Bias:** Not effective.  
 
 1. **[Clinical efficacy of hydroxychloroquine in patients with covid-19 pneumonia who require oxygen: observational comparative study using routine care data](https://www.bmj.com/content/369/bmj.m1844.abstract)**  
