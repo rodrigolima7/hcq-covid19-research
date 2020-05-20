@@ -70,30 +70,30 @@ Abaixo está as pesquisas nesse catálogo, até agora, especificamente para Covi
 **Resumo:** Pontos práticos relacionados ao uso da HCQ ou HCQ+AZ para prevenção e tratamento contra Covid-19. Resume as evidências disponíveis e recomenda contra o uso de ambos medicamentos para ambos os casos.  
 **Viés:** Não efetivo.  
 
-1. **[Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State](https://jamanetwork.com/journals/jama/fullarticle/2766117)**  
-**Publicado:** 5/11/2020  
-**Resumo:** Study of 1,438 cases in New York showed no significant improvement in mortality rate between patients using HCQ, AZ and HCQ+AZ and patients not using the treatment.  
-**Viés:** Not effective.  
+1. **[Associação do Tratamento Com Hidroxi-Cloroquina ou Azitromicina Com Mortalidade Hospitalar de Pacientes Com COVID-19 no Estado de Nova York](https://jamanetwork.com/journals/jama/fullarticle/2766117)**  
+**Publicado:** 11/5/2020  
+**Resumo:** Estudo com 1.438 casos em Nova York mostraram nenhuma melhoria considerável na taxa de mortalidade entre pacientes usando HCQ, AZ ou HCQ+AZ e pacientes que não estão usando o tratamento.  
+**Viés:** Não efetivo.  
 
-1. **[Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2012410)**  
-**Publicado:** 5/7/2020  
-**Resumo:** Study of 1,376 cases in New York showed no significant connection betweem usage of HCQ and a reduction of intubation or detah rates. Patients who received HCQ treatment where more severily ill at baseline.   
-**Viés:** Not effective.
+1. **[Estudo Observacional da Hidroxi-Cloroquina em Pacientes Hospitalizados com Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2012410)**  
+**Publicado:** 7/5/2020  
+**Resumo:** Estudo de 1.376 casos em Nova York mostrou nenhuma conexão considerável entre o uso de HCQ e uma redução nas taxas de intubação ou morte. Pacientes que receberam tratamento com HCQ estavam mais severamente doentes na linha de base.  
+**Viés:** Não efetivo.  
 
-1. **[Baseline use of hydroxychloroquine in systemic lupus erythematosus does not preclude SARS-CoV-2 infection and severe COVID-19](https://ard.bmj.com/content/early/2020/05/07/annrheumdis-2020-217690)**  
-**Publicado**: 5/7/2020  
-**Resumo:** The regular usage of HCQ by patients with lupus did not seem to impede infection by Covid-19 on the same patients. The numbers of patients infected and that needed intense care did not differ between people who don't use HCQ and people who do use it.  
-**Viés:** Not effective.  
+1. **[Diagnóstico do uso da hidroxi-cloroquina em lúpus eritematoso sistemático não preclude infecção de SARS-CoV-2 ou COVID-19 severo](https://ard.bmj.com/content/early/2020/05/07/annrheumdis-2020-217690)**  
+**Publicado**: 7/5/2020  
+**Resumo:** O uso regular da HCQ por pacientes com lúpus não parece impedir infecção por Covid-19 nos mesmos pacientes. O número de pacientes infectados e que precisaram de tratamento intensivo não diferiu entre pessoas que não usam HCQ e pessoas que a usam.  
+**Viés:** Não efetivo.  
 
-1. **[Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial](https://www.bmj.com/content/369/bmj.m1849)**  
-**Publicado:** 5/6/2020  
-**Resumo:** The use of HCQ did not seem to significantly improve results on patients with mild to moderate Covid-19. Patients using HCQ had more adverse events.  
-**Viés:** Not effective.  
+1. **[Hidroxi-cloroquina em pacientes com principalmente fraca e moderada doença do coronavirus 2019: ensaio aberto, randomizado e controlado](https://www.bmj.com/content/369/bmj.m1849)**  
+**Publicado:** 6/5/2020  
+**Resumo:** O uso de HCQ não aparentou trazer melhorias significantes nos pacientes com fraca e moderada Covid-19. Pacientes usando HCQ tiveram mais efeitos adversos.  
+**Viés:** Não efetivo.  
 
-1. **[Hydroxychloroquine in the treatment and prophylaxis of SARS-CoV-2 infection in non-human primates](https://www.researchsquare.com/article/rs-27223/v1)**  
-**Publicado**: 5/6/2020  
-**Resumo:** The usage of HCQ on non-humans did show any antiviral activity, regardless of timming after infection. The results do not support HCQ as an antiviral agent against Covid-19 on humans.  
-**Viés:** Not effective.  
+1. **[Hidroxi-cloroquina no tratamento de profilaxia da infecção por SARS-CoV-2 em primatas não-humanos](https://www.researchsquare.com/article/rs-27223/v1)**  
+**Publicado**: 6/5/2020  
+**Resumo:** O uso de HCQ em não-humanos não demonstrou qualquer efeito antiviral, independente do tempo após infecção. Os resultados não apoiam o uso de HCQ como um agente antiviral contra Covid-19 em humanos.  
+**Viés:** Não efetivo.  
 
 1. **[Clinical efficacy of hydroxychloroquine in patients with covid-19 pneumonia who require oxygen: observational comparative study using routine care data](https://www.bmj.com/content/369/bmj.m1844.abstract)**  
 **Publicado:** 5/5/2020  
